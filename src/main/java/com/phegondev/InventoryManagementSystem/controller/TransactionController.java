@@ -30,17 +30,25 @@ public class TransactionController {
         return ResponseEntity.ok(transactionService.returnToSupplier(transactionRequest));
     }
 
+//    @GetMapping("/all")
+//    public ResponseEntity<Response> getAllTransactions(
+//            @RequestParam(defaultValue = "0") int page,
+//            @RequestParam(defaultValue = "1000") int size,
+//            @RequestParam(required = false) String searchText
+//    ) {
+//        return ResponseEntity.ok(transactionService.getAllTransactions(page, size, searchText));
+//    }
     @GetMapping("/all")
     public ResponseEntity<Response> getAllTransactions(
-            @RequestParam(defaultValue = "0") int page,
-            @RequestParam(defaultValue = "1000") int size,
-            @RequestParam(required = false) String searchText
+            @RequestParam(name = "page", defaultValue = "0") int page,
+            @RequestParam(name = "size", defaultValue = "1000") int size,
+            @RequestParam(name = "searchText", required = false) String searchText
     ) {
         return ResponseEntity.ok(transactionService.getAllTransactions(page, size, searchText));
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<Response> getTransactionById(@PathVariable Long id) {
+    public ResponseEntity<Response> getTransactionById(@PathVariable("id") Long id) {
         return ResponseEntity.ok(transactionService.getTransactionById(id));
     }
 
@@ -54,7 +62,7 @@ public class TransactionController {
 
     @PutMapping("/update/{transactionId}")
     public ResponseEntity<Response> updateTransactionStatus(
-            @PathVariable Long transactionId,
+            @PathVariable("id") Long transactionId,
             @RequestBody @Valid TransactionStatus status) {
         System.out.println("ID IS: " + transactionId);
         System.out.println("Status IS: " + status);
