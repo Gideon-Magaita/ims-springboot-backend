@@ -62,7 +62,7 @@ public class TransactionController {
 
     @PutMapping("/update/{transactionId}")
     public ResponseEntity<Response> updateTransactionStatus(
-            @PathVariable("id") Long transactionId,
+            @PathVariable("transactionId") Long transactionId,
             @RequestBody @Valid TransactionStatus status) {
         System.out.println("ID IS: " + transactionId);
         System.out.println("Status IS: " + status);
