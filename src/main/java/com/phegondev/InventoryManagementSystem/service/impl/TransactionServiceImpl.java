@@ -119,7 +119,7 @@ public class TransactionServiceImpl implements TransactionService {
 
         return Response.builder()
                 .status(200)
-                .message("Transaction Sold Successfully")
+                .message("Transaction made Successfully")
                 .build();
     }
 

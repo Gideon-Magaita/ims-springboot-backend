@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9432d4b0-ac52-4efd-8834-bf8038cedd47" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/phegondev/InventoryManagementSystem/service/impl/TransactionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phegondev/InventoryManagementSystem/service/impl/TransactionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/InventoryManagementSystemApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/InventoryManagementSystemApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/controller/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/controller/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/controller/SupplierController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/controller/SupplierController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/controller/TransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/controller/TransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/CategoryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/CategoryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/LoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/ProductDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/ProductDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/RegisterRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/RegisterRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/Response$ResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/Response$ResponseBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/SupplierDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/SupplierDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/TransactionDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/TransactionDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/TransactionRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/TransactionRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/UserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/dto/UserDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Category$CategoryBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Category$CategoryBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Product$ProductBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Product$ProductBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Supplier$SupplierBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Supplier$SupplierBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Supplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Supplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Transaction$TransactionBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Transaction$TransactionBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/User$UserBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/enums/TransactionStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/enums/TransactionStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/enums/TransactionType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/enums/TransactionType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/enums/UserRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/enums/UserRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/exceptions/CustomAccessDeniedHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/exceptions/CustomAccessDeniedHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/exceptions/CustomAuthenticationEntryPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/exceptions/CustomAuthenticationEntryPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/exceptions/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/exceptions/GlobalExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/exceptions/InvalidCredentialsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/exceptions/InvalidCredentialsException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/exceptions/NameValueRequiredException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/exceptions/NameValueRequiredException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/exceptions/NotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/exceptions/NotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/repository/TransactionRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/repository/TransactionRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/AuthFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/AuthFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/AuthUser$AuthUserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/AuthUser$AuthUserBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/AuthUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/AuthUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/CorsConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/CorsConfig$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/CustomUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/CustomUserDetailsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/JwtUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/JwtUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/SecurityFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/security/SecurityFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/SupplierService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/SupplierService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/TransactionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/TransactionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/CategoryServiceImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/CategoryServiceImpl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/ProductServiceImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/ProductServiceImpl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/SupplierServiceImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/SupplierServiceImpl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/SupplierServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/SupplierServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/TransactionServiceImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/TransactionServiceImpl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/TransactionServiceImpl$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/TransactionServiceImpl$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/TransactionServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/TransactionServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/UserServiceImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/UserServiceImpl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phegondev/InventoryManagementSystem/service/impl/UserServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3G69BhPRYOUBL6K7PJIykT7njJR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.InventoryManagementSystemApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="InventoryManagementSystemApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.phegondev.InventoryManagementSystem.InventoryManagementSystemApplication" />
+      <module name="InventoryManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.phegondev.InventoryManagementSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InventoryManagementSystemApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9432d4b0-ac52-4efd-8834-bf8038cedd47" name="Changes" comment="" />
+      <created>1783281018876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783281018876</updated>
+    </task>
+    <servers />
+  </component>
+</project>
